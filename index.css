@@ -10,6 +10,10 @@ h1 {
     margin-top: 25vh;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
+#weeks {
+    font-size: 4em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
 body {
     color: white;
     background: rgb(131,58,180);
